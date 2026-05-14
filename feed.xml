@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <title>Russian Words</title>
+    <link>https://dkvstrien.github.io/russian-words/</link>
+    <language>ru</language>
+    <description>Learn Russian one word at a time. Each short episode teaches a single word or construction through example sentences, patterns, idioms, and cultural context. Designed for comprehensible input — listen repeatedly until it sticks. From A0 to B1.</description>
+    <itunes:author>Russian Words</itunes:author>
+    <itunes:summary>Learn Russian one word at a time. Each short episode teaches a single word or construction through example sentences, patterns, idioms, and cultural context. Designed for comprehensible input — listen repeatedly until it sticks. From A0 to B1.</description>
+    <itunes:category text="Education"/>
+    <itunes:category text="Language Courses"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://dkvstrien.github.io/russian-words/cover.jpg"/>
+    <image>
+      <url>https://dkvstrien.github.io/russian-words/cover.jpg</url>
+      <title>Russian Words</title>
+      <link>https://dkvstrien.github.io/russian-words/</link>
+    </image>
+    <lastBuildDate>Thu, 14 May 2026 11:00:00 +0000</lastBuildDate>
+
+    <!-- Episodes will be added here as they are published -->
+    <!-- Template:
+    <item>
+      <title>Episode 001: Привет и Пока</title>
+      <itunes:title>Привет и Пока</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <description>Hello and goodbye. Learn привет and пока — the two most important words in Russian.</description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep001/ep001-privet-poka.mp3" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">rw-ep001</guid>
+      <pubDate>Thu, 14 May 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>3:00</itunes:duration>
+    </item>
+    -->
+  </channel>
+</rss>
