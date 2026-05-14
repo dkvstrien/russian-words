@@ -21,18 +21,15 @@
     </image>
     <lastBuildDate>Thu, 14 May 2026 11:00:00 +0000</lastBuildDate>
 
-    <!-- Episodes will be added here as they are published -->
-    <!-- Template:
     <item>
       <title>Episode 001: Привет и Пока</title>
       <itunes:title>Привет и Пока</itunes:title>
       <itunes:episode>1</itunes:episode>
-      <description>Hello and goodbye. Learn привет and пока — the two most important words in Russian.</description>
-      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep001/ep001-privet-poka.mp3" type="audio/mpeg" length="0"/>
+      <description>Hello and goodbye. Learn привет (hi) and пока (bye) — the two most important words in Russian. Example sentences, a mini-dialogue, cultural notes about formal vs informal greetings, and a classic Russian film reference.</description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep001/ep001-privet-poka.mp3" type="audio/mpeg" length="1710336"/>
       <guid isPermaLink="false">rw-ep001</guid>
-      <pubDate>Thu, 14 May 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>3:00</itunes:duration>
+      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>107</itunes:duration>
     </item>
-    -->
   </channel>
 </rss>
