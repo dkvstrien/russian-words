@@ -19,7 +19,7 @@
       <title>Russian Words</title>
       <link>https://dkvstrien.github.io/russian-words/</link>
     </image>
-    <lastBuildDate>Thu, 14 May 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:42:00 +0000</lastBuildDate>
 
     <item>
       <title>Card 001: Привет и Пока</title>
@@ -506,6 +506,98 @@ Practise every day! Все дни! Пока!]]></description>
       <guid isPermaLink="false">rw-card011</guid>
       <pubDate>Fri, 15 May 2026 07:05:49 +0000</pubDate>
       <itunes:duration>122</itunes:duration>
+    </item>
+    <item>
+      <title>Card 014: знать (know)</title>
+      <itunes:title>знать (know)</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <description><![CDATA[Card 014: знать (know)
+
+Tags: card-014, A1, verb, SMARTool
+
+Know — по-русски знать.
+
+I know this person. — Я знаю этого человека.
+Do you know his name? — Ты знаешь его имя?
+We know where he works. — Мы знаем, где он работает.
+She knows the Russian language. — Она знает русский язык.
+I don't know. — Я не знаю.
+They know each other. — Они знают друг друга.
+He knows what to do. — Он знает, что делать.
+I want to know the truth. — Я хочу знать правду.
+Who knows this city? — Кто знает этот город?
+We know this family well. — Мы хорошо знаем эту семью.
+Do you know my friend? — Ты знаешь моего друга?
+She doesn't know where the children are. — Она не знает, где дети.
+
+Word connections: знать + person (знать человека, знать друга), знать + thing (знать имя, знать город, знать книгу), знать is regular (я знаю, ты знаешь, он знает). Very useful: я не знаю.]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep014-znat/ep014-znat.mp3" type="audio/mpeg" length="1766784"/>
+      <guid isPermaLink="false">rw-card014</guid>
+      <pubDate>Fri, 15 May 2026 13:42:00 +0000</pubDate>
+      <itunes:duration>84</itunes:duration>
+    </item>
+    <item>
+      <title>Card 013: хотеть (want)</title>
+      <itunes:title>хотеть (want)</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <description><![CDATA[Card 013: хотеть (want)
+
+Tags: card-013, A1, verb, SMARTool
+
+Want — по-русски хотеть.
+
+I want to eat. — Я хочу есть.
+I want to drink. — Я хочу пить.
+Do you want water? — Ты хочешь воды?
+He wants to go home. — Он хочет домой.
+We want to work in the city. — Мы хотим работать в городе.
+What do you want? — Что ты хочешь?
+She wants to read a book. — Она хочет читать книгу.
+Do you want coffee? — Вы хотите кофе?
+I want to sleep. — Я хочу спать.
+They want to know my name. — Они хотят знать моё имя.
+I want a big house. — Я хочу большой дом.
+Who wants to walk in the park? — Кто хочет гулять в парке?
+I don't want to talk. — Я не хочу говорить.
+The child wants to eat. — Ребёнок хочет есть.
+My friend wants to work. — Мой друг хочет работать.
+
+Word connections: хотеть + infinitive (хотеть есть/пить/спать/работать), хотеть + noun (хочу воду, хочешь кофе).
+Irregular verb! я хочу, ты хочешь, он хочет, мы хотим, вы хотите, они хотят.
+Polite: я хотел бы (I would like).]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep013-khotet/ep013-khotet.mp3" type="audio/mpeg" length="2043264"/>
+      <guid isPermaLink="false">rw-card013</guid>
+      <pubDate>Fri, 15 May 2026 13:40:00 +0000</pubDate>
+      <itunes:duration>105</itunes:duration>
+    </item>
+    <item>
+      <title>Card 012: человек (person)</title>
+      <itunes:title>человек (person)</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <description><![CDATA[Card 012: человек (person)
+
+Tags: card-012, A1, noun, people, SMARTool
+
+Person — по-русски человек.
+
+This person is my friend. — Этот человек мой друг.
+She is a good person. — Она хороший человек.
+I see one person. — Я вижу одного человека.
+There are many people. — Там много людей.
+People speak Russian. — Люди говорят по-русски.
+My friend is a young man. — Мой друг — молодой человек.
+How many people in your family? — Сколько человек в твоей семье?
+People work in the city. — Люди работают в городе.
+One person is waiting. — Один человек ждёт.
+This person wants to eat. — Этот человек хочет есть.
+
+Word connections: человек + друг, человек + хороший, человек + семья, люди + говорить/работать.
+Irregular plural: человек → люди (not человеки).
+After numbers: пять человек, много человек (same form).]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep012-chelovek/ep012-chelovek.mp3" type="audio/mpeg" length="1528704"/>
+      <guid isPermaLink="false">rw-card012</guid>
+      <pubDate>Fri, 15 May 2026 13:38:00 +0000</pubDate>
+      <itunes:duration>85</itunes:duration>
     </item>
   </channel>
 </rss>
