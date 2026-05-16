@@ -20,7 +20,108 @@
       <link>https://dkvstrien.github.io/russian-words/</link>
     </image>
     <lastBuildDate>Fri, 15 May 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 09:05:00 +0000</lastBuildDate>
 
+    <item>
+      <title>Card 018: есть (eat)</title>
+      <itunes:title>есть (eat)</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <description><![CDATA[Card 018: есть (eat)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep018-есть/ep018-есть.mp3" type="audio/mpeg" length="1211520"/>
+      <guid isPermaLink="false">rw-card018</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>61</itunes:duration>
+    </item>
+    <item>
+      <title>Card 019: пить (drink)</title>
+      <itunes:title>пить (drink)</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <description><![CDATA[Card 019: пить (drink)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep019-пить/ep019-пить.mp3" type="audio/mpeg" length="1296480"/>
+      <guid isPermaLink="false">rw-card019</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>65</itunes:duration>
+    </item>
+    <item>
+      <title>Card 020: купить (buy)</title>
+      <itunes:title>купить (buy)</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <description><![CDATA[Card 020: купить (buy)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep020-купить/ep020-купить.mp3" type="audio/mpeg" length="1259040"/>
+      <guid isPermaLink="false">rw-card020</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>63</itunes:duration>
+    </item>
+    <item>
+      <title>Card 021: брать (take)</title>
+      <itunes:title>брать (take)</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <description><![CDATA[Card 021: брать (take)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep021-брать/ep021-брать.mp3" type="audio/mpeg" length="1405920"/>
+      <guid isPermaLink="false">rw-card021</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>70</itunes:duration>
+    </item>
+    <item>
+      <title>Card 022: дом (house)</title>
+      <itunes:title>дом (house)</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <description><![CDATA[Card 022: дом (house)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep022-дом/ep022-дом.mp3" type="audio/mpeg" length="1335840"/>
+      <guid isPermaLink="false">rw-card022</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>67</itunes:duration>
+    </item>
+    <item>
+      <title>Card 023: вода (water)</title>
+      <itunes:title>вода (water)</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <description><![CDATA[Card 023: вода (water)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep023-вода/ep023-вода.mp3" type="audio/mpeg" length="1410720"/>
+      <guid isPermaLink="false">rw-card023</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>71</itunes:duration>
+    </item>
+    <item>
+      <title>Card 024: хлеб (bread)</title>
+      <itunes:title>хлеб (bread)</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <description><![CDATA[Card 024: хлеб (bread)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep024-хлеб/ep024-хлеб.mp3" type="audio/mpeg" length="1248480"/>
+      <guid isPermaLink="false">rw-card024</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>62</itunes:duration>
+    </item>
+    <item>
+      <title>Card 025: молоко (milk)</title>
+      <itunes:title>молоко (milk)</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <description><![CDATA[Card 025: молоко (milk)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep025-молоко/ep025-молоко.mp3" type="audio/mpeg" length="1304640"/>
+      <guid isPermaLink="false">rw-card025</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>65</itunes:duration>
+    </item>
+    <item>
+      <title>Card 026: деньги (money)</title>
+      <itunes:title>деньги (money)</itunes:title>
+      <itunes:episode>26</itunes:episode>
+      <description><![CDATA[Card 026: деньги (money)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep026-деньги/ep026-деньги.mp3" type="audio/mpeg" length="1402560"/>
+      <guid isPermaLink="false">rw-card026</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>70</itunes:duration>
+    </item>
+    <item>
+      <title>Card 027: время (time)</title>
+      <itunes:title>время (time)</itunes:title>
+      <itunes:episode>27</itunes:episode>
+      <description><![CDATA[Card 027: время (time)]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep027-время/ep027-время.mp3" type="audio/mpeg" length="1351680"/>
+      <guid isPermaLink="false">rw-card027</guid>
+      <pubDate>Sat, 16 May 2026 09:05:00 +0000</pubDate>
+      <itunes:duration>68</itunes:duration>
+    </item>
     <item>
       <title>Card 017: читать (read)</title>
       <itunes:title>читать (read)</itunes:title>
