@@ -683,5 +683,75 @@ After numbers: пять человек, много человек (same form).]]
       <pubDate>Fri, 15 May 2026 13:38:00 +0000</pubDate>
       <itunes:duration>69</itunes:duration>
     </item>
+      <item>
+      <title>Card 021: смотреть / видеть</title>
+      <itunes:title>смотреть / видеть</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <description><![CDATA[Card 021: смотреть / видеть
+
+Tags: card-021, week-1, verb, perception
+
+[English grounding word] — по-русски [target]. [Target].]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep021/card021.mp3" type="audio/mpeg" length="86016"/>
+      <guid isPermaLink="false">rw-card021</guid>
+      <pubDate>Sat, 16 May 2026 06:12:52 +0000</pubDate>
+      <itunes:duration>5</itunes:duration>
+    </item>
+      <item>
+      <title>Card 022: читать</title>
+      <itunes:title>читать</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <description><![CDATA[Card 022: читать
+
+Tags: card-022, week-1, verb, communication, daily-life
+
+[English grounding word] — по-русски [target]. [Target].]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep022/card022.mp3" type="audio/mpeg" length="89472"/>
+      <guid isPermaLink="false">rw-card022</guid>
+      <pubDate>Sat, 16 May 2026 06:12:56 +0000</pubDate>
+      <itunes:duration>6</itunes:duration>
+    </item>
+      <item>
+      <title>Card 023: писать</title>
+      <itunes:title>писать</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <description><![CDATA[Card 023: писать
+
+Tags: card-023, week-1, verb, communication, daily-life
+
+[English grounding word] — по-русски [target]. [Target].]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep023/card023.mp3" type="audio/mpeg" length="76416"/>
+      <guid isPermaLink="false">rw-card023</guid>
+      <pubDate>Sat, 16 May 2026 06:13:00 +0000</pubDate>
+      <itunes:duration>5</itunes:duration>
+    </item>
+      <item>
+      <title>Card 024: понимать</title>
+      <itunes:title>понимать</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <description><![CDATA[Card 024: понимать
+
+Tags: card-024, week-1, verb, communication, knowledge
+
+[English grounding word] — по-русски [target]. [Target].]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep024/card024.mp3" type="audio/mpeg" length="81792"/>
+      <guid isPermaLink="false">rw-card024</guid>
+      <pubDate>Sat, 16 May 2026 06:13:03 +0000</pubDate>
+      <itunes:duration>5</itunes:duration>
+    </item>
+      <item>
+      <title>Card 025: и / а / но</title>
+      <itunes:title>и / а / но</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <description><![CDATA[Card 025: и / а / но
+
+Tags: card-025, week-1, conjunction, grammar, glue
+
+[English grounding word] — по-русски [target]. [Target].]]></description>
+      <enclosure url="https://github.com/dkvstrien/russian-words/releases/download/ep025/card025.mp3" type="audio/mpeg" length="70272"/>
+      <guid isPermaLink="false">rw-card025</guid>
+      <pubDate>Sat, 16 May 2026 06:13:08 +0000</pubDate>
+      <itunes:duration>4</itunes:duration>
+    </item>
   </channel>
 </rss>
